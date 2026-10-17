@@ -1,5 +1,4 @@
 # GenAI-Assisted-MOSFET-Characterization-and-TCAD-Diagnostics
-A GenAI powered MOSFET characterization and TCAD analysis assistant that extracts device metrics, detects abnormal behavior, proposes possible physical causes, and recommends simulations to test those causes.
 A runnable student project for MOSFET transfer-curve characterization, anomaly
 triage, and evidence-based TCAD experiment planning. Deterministic Python code
 computes electrical metrics and compares curves. An optional GenAI explanation
